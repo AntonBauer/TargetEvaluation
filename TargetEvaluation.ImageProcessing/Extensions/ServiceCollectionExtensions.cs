@@ -1,7 +1,7 @@
 ﻿using Microsoft.Extensions.DependencyInjection;
 using TargetEvaluation.ImageProcessing.ImageProcessors;
 
-namespace TargetEvaluation.ImageProcessing
+namespace TargetEvaluation.ImageProcessing.Extensions
 {
     public static class ServiceCollectionExtensions
     {

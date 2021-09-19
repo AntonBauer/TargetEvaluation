@@ -2,6 +2,7 @@
 using Microsoft.Extensions.Hosting;
 using TargetEvaluation.Cli.Options;
 using TargetEvaluation.ImageProcessing;
+using TargetEvaluation.ImageProcessing.Extensions;
 
 namespace TargetEvaluation.Cli
 {

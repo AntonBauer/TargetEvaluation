@@ -2,6 +2,10 @@
 Microsoft Visual Studio Solution File, Format Version 12.00
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TargetEvaluation.Cli", "TargetEvaluation.Cli\TargetEvaluation.Cli.csproj", "{41F3E59B-5E7E-434D-8296-377C2E3B8EA7}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TargetEvaluation.ImageProcessing", "TargetEvaluation.ImageProcessing\TargetEvaluation.ImageProcessing.csproj", "{02B0FA55-8B26-43AE-A517-F320ACC23858}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TargetEvaluation.Contracts", "TargetEvaluation.Contracts\TargetEvaluation.Contracts.csproj", "{2AF855C4-AAC3-4CF7-BF26-6B4E23B78F98}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -12,5 +16,13 @@ Global
 		{41F3E59B-5E7E-434D-8296-377C2E3B8EA7}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{41F3E59B-5E7E-434D-8296-377C2E3B8EA7}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{41F3E59B-5E7E-434D-8296-377C2E3B8EA7}.Release|Any CPU.Build.0 = Release|Any CPU
+		{02B0FA55-8B26-43AE-A517-F320ACC23858}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{02B0FA55-8B26-43AE-A517-F320ACC23858}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{02B0FA55-8B26-43AE-A517-F320ACC23858}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{02B0FA55-8B26-43AE-A517-F320ACC23858}.Release|Any CPU.Build.0 = Release|Any CPU
+		{2AF855C4-AAC3-4CF7-BF26-6B4E23B78F98}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{2AF855C4-AAC3-4CF7-BF26-6B4E23B78F98}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{2AF855C4-AAC3-4CF7-BF26-6B4E23B78F98}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{2AF855C4-AAC3-4CF7-BF26-6B4E23B78F98}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 EndGlobal
